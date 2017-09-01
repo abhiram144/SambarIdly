@@ -1,0 +1,79 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: 2017-08-31 20:38:28
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.2.20
+WORDPRESS:	4.8.1
+PHP INFO:	7.1.7 | SAPI: apache2handler
+SERVER:		Apache/2.4.26 (Win32) OpenSSL/1.0.2l PHP/7.1.7 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 2048M (128M default) 
+MEMORY STACK: 2MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Is Supported 
+TABLES: total:13 | filtered:0 | create:13 
+FILTERED: [] 
+SQL CREATED: 20170831_sambaridly_7a301ad89502fc1d4527170831203818_database.sql 
+SQL FILE SIZE: 855.05KB (875570) 
+SQL FILE TIME: 2017-08-31 20:38:29 
+SQL RUNTIME: 0.21 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  C:/xampp/htdocs/sambaridly 
+ARCHIVE FILE: 20170831_sambaridly_7a301ad89502fc1d4527170831203818_archive.zip 
+FILTERS: *OFF* 
+DIRS:
+	not set 
+FILES:
+	not set 
+EXTS:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	45.48MB 
+STATS:	Dirs 632 | Files 3,738 
+SQL ADDED: 20170831_sambaridly_7a301ad89502fc1d4527170831203818_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 4370
+    [filename] => C:\xampp\htdocs\sambaridly\wp-snapshots\tmp\20170831_sambaridly_7a301ad89502fc1d4527170831203818_archive.zip
+    [comment] => 
+)
+ 
+COMPRESSION RESULT: '1' 
+COMPRESSED SIZE: 20.42MB 
+ARCHIVE RUNTIME: 4.11 sec. 
+MEMORY STACK: 4MB 
+
+******************************************************************************** 
+MAKE INSTALLER: 
+******************************************************************************** 
+Build Start 
+Build Finished 
+Preping for use 
+PACK SIZE:  
+Template parsed with new data 
+Complete [C:/xampp/htdocs/sambaridly/wp-snapshots/tmp/20170831_sambaridly_7a301ad89502fc1d4527170831203818_installer.php] 
+Added to archive 
+
+******************************************************************************** 
+INTEGRITY CHECKS: 
+******************************************************************************** 
+SQL File: 855.05KB 
+Installer File: 434.98KB 
+Archive File: 20.42MB  
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 11.13 sec.
+PEAK PHP MEMORY USED: 4MB
+DONE PROCESSING => 20170831_sambaridly 2017-08-31 20:38:39
+ 

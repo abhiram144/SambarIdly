@@ -1,0 +1,337 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: IMNews\n"
+"POT-Creation-Date: 2017-07-06 13:10+0530\n"
+"PO-Revision-Date: 2017-04-03 12:00+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:13
+msgid "Oops! That page can't be found."
+msgstr ""
+
+#: 404.php:23
+msgid ""
+"It looks like nothing was found at this location. Maybe try onece again with "
+"a search?"
+msgstr ""
+
+#: content.php:48 template-parts/content-search.php:60
+msgid "Read More"
+msgstr ""
+
+#: content.php:61 template-parts/content.php:62
+msgid "Back"
+msgstr ""
+
+#: content.php:62 template-parts/content.php:63
+msgid "Onward"
+msgstr ""
+
+#: footer.php:46
+msgid "Powered By "
+msgstr ""
+
+#: footer.php:46
+msgid "IMNews WordPress Theme"
+msgstr ""
+
+#: functions.php:15
+msgid "Top Menu"
+msgstr ""
+
+#: functions.php:16
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:83
+msgid "IMNewsPro Features"
+msgstr ""
+
+#: functions/breadcrumbs.php:9
+msgid "Home"
+msgstr ""
+
+#: functions/breadcrumbs.php:165 functions/breadcrumbs.php:169
+#: functions/breadcrumbs.php:173 functions/breadcrumbs.php:180
+#: functions/breadcrumbs.php:184 functions/breadcrumbs.php:189
+msgid " Archives"
+msgstr ""
+
+#: functions/breadcrumbs.php:200
+msgid "Author: "
+msgstr ""
+
+#: functions/breadcrumbs.php:205
+msgid "Page "
+msgstr ""
+
+#: functions/breadcrumbs.php:205
+msgid "Page"
+msgstr ""
+
+#: functions/breadcrumbs.php:210
+msgid "Search results for: "
+msgstr ""
+
+#: functions/breadcrumbs.php:215
+msgid "Error 404"
+msgstr ""
+
+#: functions/theme-customization.php:10
+msgid "Footer"
+msgstr ""
+
+#: functions/theme-customization.php:11
+msgid "Footer options"
+msgstr ""
+
+#: functions/theme-customization.php:14
+msgid "Footer Widget Area"
+msgstr ""
+
+#: functions/theme-customization.php:31
+msgid "Hide Widget Area"
+msgstr ""
+
+#: functions/theme-customization.php:34 functions/theme-customization.php:145
+#: functions/theme-customization.php:201
+msgid "Show"
+msgstr ""
+
+#: functions/theme-customization.php:35 functions/theme-customization.php:146
+#: functions/theme-customization.php:202
+msgid "Hide"
+msgstr ""
+
+#: functions/theme-customization.php:52
+msgid "Select Widget Area"
+msgstr ""
+
+#: functions/theme-customization.php:55
+msgid "2 column"
+msgstr ""
+
+#: functions/theme-customization.php:56
+msgid "3 column"
+msgstr ""
+
+#: functions/theme-customization.php:57
+msgid "4 column"
+msgstr ""
+
+#: functions/theme-customization.php:65
+msgid "Footer Copy Rights"
+msgstr ""
+
+#: functions/theme-customization.php:72
+msgid "Footer Widget Layout"
+msgstr ""
+
+#: functions/theme-customization.php:74
+msgid "Choose one of five layout style."
+msgstr ""
+
+#: functions/theme-customization.php:91
+msgid "Theme Color "
+msgstr ""
+
+#: functions/theme-customization.php:110
+msgid "Secondary Color"
+msgstr ""
+
+#: functions/theme-customization.php:120
+msgid "Blog Page Settings"
+msgstr ""
+
+#: functions/theme-customization.php:121
+msgid "Blog Page options"
+msgstr ""
+
+#: functions/theme-customization.php:125
+msgid "Section 2"
+msgstr ""
+
+#: functions/theme-customization.php:142
+msgid "Hide Section 2"
+msgstr ""
+
+#: functions/theme-customization.php:161 functions/theme-customization.php:217
+msgid "Category"
+msgstr ""
+
+#: functions/theme-customization.php:177 functions/theme-customization.php:233
+msgid "Total number of Posts"
+msgstr ""
+
+#: functions/theme-customization.php:178 functions/theme-customization.php:234
+msgid "This is a custom number."
+msgstr ""
+
+#: functions/theme-customization.php:181
+msgid "Section 3"
+msgstr ""
+
+#: functions/theme-customization.php:198
+msgid "Hide Section 3"
+msgstr ""
+
+#: functions/theme-default-setup.php:7
+msgid "Main Sidebar"
+msgstr ""
+
+#: functions/theme-default-setup.php:9 functions/theme-default-setup.php:18
+#: functions/theme-default-setup.php:27 functions/theme-default-setup.php:36
+#: functions/theme-default-setup.php:45
+msgid "Main sidebar that appears on the right."
+msgstr ""
+
+#: functions/theme-default-setup.php:16
+msgid "Footer 1"
+msgstr ""
+
+#: functions/theme-default-setup.php:25
+msgid "Footer 2"
+msgstr ""
+
+#: functions/theme-default-setup.php:34
+msgid "Footer 3"
+msgstr ""
+
+#: functions/theme-default-setup.php:43
+msgid "Footer 4"
+msgstr ""
+
+#: functions/theme-default-setup.php:62
+msgid "By :"
+msgstr ""
+
+#: functions/theme-default-setup.php:64
+msgid "Category :"
+msgstr ""
+
+#: functions/widget.php:9
+msgid "The most recent posts on your site"
+msgstr ""
+
+#: functions/widget.php:10
+msgid "IMNews Recent Posts"
+msgstr ""
+
+#: functions/widget.php:32
+msgid "Recent Posts"
+msgstr ""
+
+#: functions/widget.php:94 functions/widget.php:143
+msgid "Title:"
+msgstr ""
+
+#: functions/widget.php:96
+msgid "Number of posts to show:"
+msgstr ""
+
+#: functions/widget.php:99
+msgid "Display post date?"
+msgstr ""
+
+#: functions/widget.php:107
+msgid "A list of categories, with slightly tweaked output."
+msgstr ""
+
+#: functions/widget.php:108
+msgid "IMNews Categories"
+msgstr ""
+
+#: functions/widget.php:113
+msgid "Categories"
+msgstr ""
+
+#: functions/widget.php:146
+msgid "Show post counts"
+msgstr ""
+
+#: index.php:14
+msgid "Blog"
+msgstr ""
+
+#: searchform.php:11
+msgid "Search"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:25
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:27
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:30
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-search.php:6
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: template-parts/content-search.php:74
+msgid "Previous"
+msgstr ""
+
+#: template-parts/content-search.php:75
+msgid "Next"
+msgstr ""
+
+#: template-parts/content-single.php:64
+msgid "SIMILAR NEWS"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "IMNews"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://vaultthemes.com/wordpress-themes/imnews/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"IMNews is a professional looking, high quality WordPress theme for news or "
+"blog websites. It is mobile responsive so it looks amazingly awesome in "
+"mobiles and tablets. Colors etc can be easily changed from Customize section "
+"of WordPress admin panel. Step-by-step documentation and dummy data is "
+"available here: https://vaultthemes.com/documentation/imnews/"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "VaultThemes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://vaultthemes.com"
+msgstr ""

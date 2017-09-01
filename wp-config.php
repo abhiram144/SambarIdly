@@ -20,16 +20,16 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'sambaridlywordpress');
+define('DB_NAME', 'sambaridlywordpressproduction');
 
 /** MySQL database username */
-define('DB_USER', 'sambaridly');
+define('DB_USER', 'be40d7b0c91d67');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'Admin');
+define('DB_PASSWORD', '0933b89b');
 
 /** MySQL hostname */
-define('DB_HOST', 'localhost');
+define('DB_HOST', 'in-cdbr-azure-south-c.cloudapp.net');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8mb4');

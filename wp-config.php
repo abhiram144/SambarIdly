@@ -23,13 +23,13 @@
 define('DB_NAME', 'sambaridlywordpressproduction');
 
 /** MySQL database username */
-define('DB_USER', 'be40d7b0c91d67');
+define('DB_USER', 'abhiram@sambaridlyproduction');
 
 /** MySQL database password */
-define('DB_PASSWORD', '0933b89b');
+define('DB_PASSWORD', 'Ns2b71234');
 
 /** MySQL hostname */
-define('DB_HOST', 'in-cdbr-azure-south-c.cloudapp.net');
+define('DB_HOST', 'sambaridlyproduction.mysql.database.azure.com');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8mb4');
